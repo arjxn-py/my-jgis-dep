@@ -6,4 +6,4 @@ dependencies:
   - xeus-python
   - ipycanvas
   - pip:
-    - jupytergis-lab
+    - jupytergis-lite
